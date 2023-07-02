@@ -1,0 +1,4 @@
+Database host address:recio.mysql.pythonanywhere-services.com
+Username:recio
+
+recio$mysite
